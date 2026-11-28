@@ -139,4 +139,5 @@ Luego abre tu navegador en `http://localhost:8000`.
 
 ## Alcance y Limitaciones
 
-Este proyecto constituye un prototipo académico desarrollado en el marco del **Reto No. 2** para la asignatura *Introducción a la Ingeniería de Sistemas* de la **Universidad del Magdalena**. No sustituye los sistemas oficiales de denuncia del Distrito de Santa Marta. La información sensible recopilada en campo fue anonimizada siguiendo estrictamente los lineamientos de la **Ley Estatutaria 1581 de 2012** (Protección de Datos Personales).
+Este proyecto constituye un prototipo académico desarrollado en el marco del **Reto No. 2** para la asignatura *Introducción a la Ingeniería de Sistemas* de la **Universidad del Magdalena**. No sustituye los sistemas oficiales de denuncia del Distrito de Santa Marta. La información sensible recopilada en campo fue anonimizada siguiendo estrictamente los lineamientos de la **Ley Estatutaria 1581 de 2012** (Protección de Datos 
+).
